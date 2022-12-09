@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23004713697",
+    "project_id": "ohio-7066e",
+    "storage_bucket": "ohio-7066e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23004713697:android:f19d0ba9ad6d7412e21da0",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23004713697-lh6sv7fiunl3pd9dmbhkht2ei1298599.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBobV4wX292aE01_5bESNRnOu7IHAANcEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23004713697-lh6sv7fiunl3pd9dmbhkht2ei1298599.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
